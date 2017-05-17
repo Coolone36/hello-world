@@ -1,6 +1,6 @@
 # hello-world
 Hello World test project
 
-By: Michael
+By: Michael and Daniel
 
 I am happy to test this.
